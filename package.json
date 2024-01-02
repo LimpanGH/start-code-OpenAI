@@ -1,0 +1,23 @@
+{
+  "name": "openai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimpanGH/OpenAI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimpanGH/OpenAI/issues"
+  },
+  "homepage": "https://github.com/LimpanGH/OpenAI#readme",
+  "dependencies": {
+    "openai": "^4.24.1"
+  }
+}
