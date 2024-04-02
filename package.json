@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/LimpanGH/OpenAI#readme",
   "dependencies": {
-    "openai": "^4.24.1"
+    "openai": "^4.32.0"
   }
 }
