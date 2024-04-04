@@ -1,15 +1,5 @@
 # OpenAI
 
-## My API keys: https://platform.openai.com/api-keys
-
-## Is OpenAI API Key Free?
-
-There is no free tier for the OpenAI API.
-All API requests are charged at a rate based on the amount of data you’re using.
-However, OpenAI gives you $5 worth of API credits when you first create an OpenAI account. This free credit expires three months after you create your OpenAI account.
-To get this free OpenAI API credit, you can sign up on the OpenAI website. Once you have created your account, you can create an API key from the OpenAI platform and use it to make API requests.
-After your $5 credit runs out or reaches its 3-month expiry, you can choose to enter your payment information to keep using your OpenAI API. Keep in mind that if you don’t provide your payment details, you can still log in to OpenAI, but you won’t be able to make any more API requests.
-
 ## Setup: https://platform.openai.com/docs/quickstart?context=node
 
 ### Step 1: Install the OpenAI Node.js library
